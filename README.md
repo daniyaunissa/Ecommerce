@@ -1,22 +1,16 @@
-# Ecommerce![image](https://github.com/user-attachments/assets/6212e532-cbc9-47fb-ae07-b238c1eb11f1)
-### 🖼️ Screenshots
+# product_app
 
-**Login Screen**
+A new Flutter project.
 
-![Login Screen]![image](https://github.com/user-attachments/assets/3a5570dd-fcce-40e6-a35d-8576a286e7ce)
+## Getting Started
 
-**Product Page**
+This project is a starting point for a Flutter application.
 
-![Product List]![image](https://github.com/user-attachments/assets/83ae59e7-c097-422b-a09f-3e8e868b30a8)
+A few resources to get you started if this is your first Flutter project:
 
-**Menu**
-![image](https://github.com/user-attachments/assets/a30673df-4af3-484e-a0e2-5b7308b1865f)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-**chat support**
-![image](https://github.com/user-attachments/assets/5185f7fc-9184-4d20-b819-4fe3a44e29cd)
-
-**order history**
-![image](https://github.com/user-attachments/assets/2318903b-5203-454d-9ad5-07945cb5bd47)
-
-**cart page**
-![Uploading image.png…]()
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
